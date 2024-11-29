@@ -1,4 +1,6 @@
+//import from libraries
 import { OrbitControls, Stage } from "@react-three/drei";
+//import from Fafnir.jsx
 import Fafnir from "./Fafnir";
 
 const Experience = () => {
